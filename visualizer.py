@@ -46,8 +46,8 @@ class Plotter:
 		time.sleep(1)
 		plt.show()
 		anim.event_source.stop()
-		del anim
 		plt.close()
+		del anim
 
 	def plot(self):
 		try:
