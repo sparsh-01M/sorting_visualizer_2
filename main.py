@@ -1,7 +1,6 @@
 import sys
 import sorting as s
 import visualizer as vs
-import numpy as np
 import random
 
 
